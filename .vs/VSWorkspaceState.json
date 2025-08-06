@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\UserWebAPI",
+    "\\UserWebAPI\\Controllers",
+    "\\UserWebAPI\\Data",
+    "\\UserWebAPI\\Migrations",
+    "\\UserWebAPI\\Models",
+    "\\UserWebAPI\\Repositories"
+  ],
+  "SelectedNode": "\\UserWebAPI.sln",
+  "PreviewInSolutionExplorer": false
+}
