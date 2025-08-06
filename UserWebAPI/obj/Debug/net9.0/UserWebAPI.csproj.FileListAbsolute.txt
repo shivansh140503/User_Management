@@ -165,3 +165,4 @@ C:\Users\shiva\source\repos\UserWebAPI\UserWebAPI\obj\Debug\net9.0\UserWebAPI.ge
 C:\Users\shiva\source\repos\UserWebAPI\UserWebAPI\obj\Debug\net9.0\ref\UserWebAPI.dll
 C:\Users\shiva\source\repos\UserWebAPI\UserWebAPI\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 C:\Users\shiva\source\repos\UserWebAPI\UserWebAPI\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\shiva\source\repos\UserWebAPI\UserWebAPI\obj\Debug\net9.0\UserWebAPI.sourcelink.json
